@@ -1,0 +1,1 @@
+Saya menggunakan database mysql dan menggunakan software xampp, harap dimaklumi jika digambar ada beberapa error karena saya baru disql. :)
